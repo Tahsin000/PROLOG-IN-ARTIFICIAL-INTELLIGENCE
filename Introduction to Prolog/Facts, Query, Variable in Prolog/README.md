@@ -1,5 +1,8 @@
 # Facts, Query, Variable in Prolog
 
+## RELATIONSHIP
+<img src="https://raw.githubusercontent.com/Tahsin000/PROLOG-IN-ARTIFICIAL-INTELLIGENCE/main/Introduction%20to%20Prolog/Facts%2C%20Query%2C%20Variable%20in%20Prolog/Assets/relationship.svg" width="560">
+
 ## 1. Check whether the following statements are true or false through prolog query ? 
 #### A ) Paul is joe’s father 
 ```prolog
