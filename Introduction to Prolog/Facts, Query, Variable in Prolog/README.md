@@ -3,6 +3,17 @@
 ## Relationship
 <img src="https://raw.githubusercontent.com/Tahsin000/PROLOG-IN-ARTIFICIAL-INTELLIGENCE/main/Introduction%20to%20Prolog/Facts%2C%20Query%2C%20Variable%20in%20Prolog/Assets/relationship.svg" width="560">
 
+```prolog
+fatherOf(joe,paul).
+fatherOf(joe,mary).
+motherOf(jane,paul).
+motherOf(jane,mary).
+male(paul).
+male(joe).
+female(mary).
+female(jane).
+```
+
 ## 1. Check whether the following statements are true or false through prolog query ? 
 #### A ) Paul is joe’s father 
 ```prolog
@@ -38,4 +49,12 @@ male(Male).
 #### D ) Female family members
 ```prolog
 female(Female).
+```
+## 3. Other Fact
+```prolog
+cat(tom).
+love_to_eat(kunal,pasta).
+of_colour(hair, black).
+love_to_play_game(nawaz).
+lazy(pratyusha).
 ```
